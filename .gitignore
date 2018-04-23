@@ -35,3 +35,11 @@
 *.pdb
 *.pch
 *.ilk
+
+# ocx temp Files
+*_CP.h
+*_i.c
+*_i.h
+*_p.c
+dlldata.c
+
