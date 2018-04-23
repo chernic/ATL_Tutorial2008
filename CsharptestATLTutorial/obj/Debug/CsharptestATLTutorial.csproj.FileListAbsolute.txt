@@ -1,0 +1,8 @@
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\obj\Debug\ResolveAssemblyReference.cache
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\obj\Debug\Interop.ATLTutorial2008Lib.dll
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\obj\Debug\CsharptestATLTutorial.csproj.ResolveComReference.cache
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\bin\Debug\CsharptestATLTutorial.exe
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\bin\Debug\CsharptestATLTutorial.pdb
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\bin\Debug\Interop.ATLTutorial2008Lib.dll
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\obj\Debug\CsharptestATLTutorial.exe
+E:\github\focusSip\ATLTutorial2008\CsharptestATLTutorial\obj\Debug\CsharptestATLTutorial.pdb
